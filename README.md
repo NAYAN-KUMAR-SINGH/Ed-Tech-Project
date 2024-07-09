@@ -1,7 +1,7 @@
 # StudyNotion: An Innovative EdTech Platform
 
 **Table of Contents**
-1. Introduction
+1. [Introduction]
 2. System Architecture
 3. Front-end
 4. Back-end
@@ -92,8 +92,8 @@ For detailed API documentation and endpoints, refer to the API Documentation.
 
 **Installation**
 
-1. Clone the repository: `https://github.com/ankitmalik84/StudyNotion`
-2. Navigate to the project directory: `cd StudyNotion`
+1. Clone the repository: `https://github.com/NAYAN-KUMAR-SINGH/Ed-Tech-Project`
+2. Navigate to the project directory: `cd Ed-Tech-Project`
 3. Install dependencies: `npm install`
 
 **Configuration**
